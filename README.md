@@ -49,6 +49,7 @@ The following are the resources which i use and like the most.
 1. OWASP BWA: https://owasp.org/www-project-broken-web-applications/
 2. Portswinger's Labs: https://portswigger.net/web-security
 3. Metasploitable: https://information.rapid7.com/download-metasploitable-2017.html
+4. CyberPython: https://pythoncyber.go.ro
 
 ### Tools to start your bug hunting with
 
